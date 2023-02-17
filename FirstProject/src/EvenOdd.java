@@ -17,7 +17,6 @@ public class EvenOdd {
 		//% is a remainder operator
 			//== is comparison operator (left and right comparison)
 			//= assignment operator (assigning value to variable)
-		
 		in.close();
 	}
 
